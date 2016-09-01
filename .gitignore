@@ -1,5 +1,5 @@
 ###################################### 
-# Unreal Generated Files #
+# UNREAL Generated Files #
 ###################################### 
 */Build
 */Binaries
@@ -12,3 +12,9 @@ BuildingEscape/Content/StarterContent/
 # VS Generated Files #
 ###################################### 
 *.VC.db
+
+###################################### 
+# XCODE Generated Files #
+###################################### 
+**/xcuserdata
+contents.xcworkspacedata
